@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: WARN
+    org.springframework.web: INFO
+    com.testapp: DEBUG
+
+
